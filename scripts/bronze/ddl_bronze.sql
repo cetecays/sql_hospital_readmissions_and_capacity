@@ -28,7 +28,7 @@ CREATE TABLE bronze.hospital_operations_dataset (
 	hod_total_beds_available NVARCHAR(MAX),
 	hod_beds_occupied NVARCHAR(MAX),
 	hod_icu_beds_available NVARCHAR(MAX),
-	hod_ice_beds_occupied NVARCHAR(MAX),
+	hod_icu_beds_occupied NVARCHAR(MAX),
 	hod_oxygen_units_used NVARCHAR(MAX),
 	hod_month NVARCHAR(MAX),
 	hod_season NVARCHAR(MAX),
